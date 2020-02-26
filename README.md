@@ -3,7 +3,7 @@
 1. Have your Mac OS Catalina final version as **.app** downloaded from [Apple](https://apps.apple.com/gb/app/macos-catalina/id1466841314?ls=1&mt=12)
 2. Open a terminal and type the following
 ``` bash
-git clone https://github.com/tutyamxx/macos-to-iso.git`
+git clone https://github.com/tutyamxx/macos-to-iso.git
 cd macos-to-iso
 sudo chmod a+x macos_to_iso.sh
 ```
